@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++ projects/untitled17/dns.h
+
+D:/C++ projects/untitled17/main.c
+stdio.h
+-
+malloc.h
+-
+time.h
+-
+string.h
+-
+dns.h
+D:/C++ projects/untitled17/dns.h
+
