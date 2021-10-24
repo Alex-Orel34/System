@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++ projects/untitled32/main.c
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+string.h
+-
+splpv1.h
+D:/C++ projects/untitled32/splpv1.h
+
+D:/C++ projects/untitled32/splpv1.c
+splpv1.h
+D:/C++ projects/untitled32/splpv1.h
+string.h
+-
+
+D:/C++ projects/untitled32/splpv1.h
+
