@@ -1,0 +1,4 @@
+ToolSet: 17.0 (local)@D:\Visual studio
+Options: msvc.arch=x86
+
+Options:
